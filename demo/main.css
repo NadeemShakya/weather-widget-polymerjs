@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url(./../Montserrat/Montserrat-Regular.ttf);
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat";
+  margin: 0;
+  background: #f2f2f2;
+}
+nav {
+  background: #4bc3da;
+  margin: 0 0 10px 0;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+nav h1 {
+  font-size: 25px;
+}
+nav .navigator {
+  float: right;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
