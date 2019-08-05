@@ -1,4 +1,7 @@
-# \<my-element\>
+
+Working Demo Image:
+
+<img src = "./weather-widget.png"/>
 
 
 
@@ -14,7 +17,4 @@ $ npm install
 $ polymer serve
 ```
 
-Working Demo Image:
-
-<img src = "./screenshot.png"/>
 
